@@ -59,3 +59,20 @@ fi
 %{peardir}/Horde/UI/VarRenderer/html.php
 %{peardir}/Horde/UI/VarRenderer/tableset_html.php
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-3mdv2011.0
++ Revision: 564106
+- Increased release for rebuild
+
+* Sat Feb 20 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-2mdv2010.1
++ Revision: 508642
+- updated rel
+- removed unneeded dependencies
+
+* Fri Feb 19 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-1mdv2010.1
++ Revision: 507958
+- import horde-ui
+
+
